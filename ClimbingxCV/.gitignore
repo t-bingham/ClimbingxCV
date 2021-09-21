@@ -134,6 +134,7 @@ dmypy.json
 
 #venv
 .cfg
-venv/Include
-venv/Lib
-venv/Media
+.idea/
+venv/Include/
+venv/Lib/
+venv/Media/
